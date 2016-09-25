@@ -1,0 +1,15 @@
+{
+    "name": "csi0n/from",
+    "description": "count from",
+    "minimum-stability": "dev",
+    "authors": [{
+        "name": "csi0n",
+        "email": "chqssqll@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "csi0n\\From\\": "src/"
+        }
+    }
+}
